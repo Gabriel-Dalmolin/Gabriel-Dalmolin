@@ -21,7 +21,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-Dalmolin&theme=tokyonight" alt="mystreak"/>
 ![Gabriel-Dalmolin's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Dalmolin&theme=tokyonight&layout=compact)
 
-🌱 I’m currently learning python and java
+🌱 I’m currently learning python and web development with django
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -30,7 +30,11 @@
   <p style="display: inline-block;" align="center">
     <p>Programming Languages</p>
       <img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="py" title="Python"/> 
-      <img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" title="Java" /> 
+      <img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" title="Django" /> 
+      <img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" title="Javascript" /> 
+      <img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML" title="HTML" /> 
+      <img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS" title="CSS" /> 
+      
 </div>
 
 ## Contact me : 
