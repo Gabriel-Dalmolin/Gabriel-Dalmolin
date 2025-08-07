@@ -10,7 +10,7 @@
 <li> <h3> My name is Gabriel and I am brazilian </h3> </li>
 <li> <h3> I am a self taught programmer </h3> </li>
 <li> <h3> I love innovation and engineering </h3> </li>
-<li> <h3> I know how to code in python and java </h3> </li>
+<li> <h3> I know how to code in python </h3> </li>
 </ol>
 
 
